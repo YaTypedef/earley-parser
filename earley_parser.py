@@ -12,7 +12,6 @@ __author__  = "Anton Zhernov <typedef@yandex.ru>"
 __date__    = "$Feb 20, 2015$"
 __version__ = "0.2"
 
-import copy
 import sys
 from optparse import OptionParser
 
